@@ -50,7 +50,7 @@ const FAQChatbot = () => {
 
       {/* Chat window */}
       {chatOpen && (
-        <div className="w-80   bg-white border-2 border-blue-500 rounded-xl shadow-xl overflow-hidden">
+        <div className="w-80  bg-white border-2 border-blue-500 rounded-xl shadow-xl overflow-hidden">
           {/* Header */}
           <div className="bg-blue-600 text-white flex justify-between items-center px-4 py-2 font-semibold">
             <span>💬  PMC Assistant</span>
